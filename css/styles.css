@@ -8,3 +8,13 @@
   font-family:arial;
   font-size: 18pt;
 }
+body {
+  background-color: rgb(206, 161, 37);
+}
+div {
+  background-color: lightgrey;
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+}
